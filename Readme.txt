@@ -1,0 +1,1 @@
+an AI-powered YouTube video transcript generator and summarizer leveraging Hugging Face's pre-trained transformer models. This project utilizes advanced natural language processing techniques to extract and condense key insights from video content, enabling efficient information retrieval and knowledge discovery.
